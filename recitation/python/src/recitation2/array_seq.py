@@ -58,3 +58,24 @@ class Array_seq:
 
     def delete_last(self):
         return self.delete_at(len(self) - 1)
+
+
+def test_arraySeq():
+    '''
+    [5,2,4,6,1,3]
+    '''
+    print("测试开始")
+
+    X = [5,2,4,6,1,3]
+    A=Array_seq()
+
+    A.build(X)
+
+    print(A.__len__())
+
+    print("测试结束")
+
+
+
+if __name__ == '__main__':
+    test_arraySeq()
