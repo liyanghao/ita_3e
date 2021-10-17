@@ -38,6 +38,10 @@ class Array_seq:
         for k in range(n):
             A[j + k] = self.A[i + k]
 
+    def _copy_backward(self, i, n, A, j):
+        for k in range(n - 1, -1, -1):
+            A[j + k] = self.A[i + k]
+
     def delete_at(self, i):
         n = len(self)
         A = [None] * (n - 1)
@@ -58,7 +62,6 @@ class Array_seq:
 
     def delete_last(self):
         return self.delete_at(len(self) - 1)
-
 
 def test_arraySeq():
     '''
