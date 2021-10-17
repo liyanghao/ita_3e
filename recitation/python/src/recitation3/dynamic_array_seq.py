@@ -1,7 +1,7 @@
 # coding=utf-8
 
 '''
-序列的静态数组实现
+序列的动态数组实现
 '''
 
 from src.recitation2.array_seq import Array_Seq
