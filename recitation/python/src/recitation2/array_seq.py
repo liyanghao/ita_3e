@@ -5,7 +5,7 @@
 '''
 
 
-class Array_seq:
+class Array_Seq:
     def __init__(self):
         self.A = []
         self.size = 0
@@ -70,7 +70,7 @@ def test_arraySeq():
     print("测试开始")
 
     X = [5,2,4,6,1,3]
-    A=Array_seq()
+    A=Array_Seq()
 
     A.build(X)
 
