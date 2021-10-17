@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29500118-9070-41c8-ab1e-44ec1736913a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recitation3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recitation3/dynamic_array_seq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/recitation3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/recitation3-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recitation2/array_seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/recitation2/array_seq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recitation2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../recitation2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recitation3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../recitation3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recitation3/dynamic_array_seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/recitation3/dynamic_array_seq.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
